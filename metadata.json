@@ -1,0 +1,4 @@
+{
+  "name": "Thermopile VR Simulator",
+  "description": "A 3D interactive simulation of a thermopile sensor. Adjust the temperature and distance of a heat source to see real-time sensor readings and color gradients, demonstrating infrared physics concepts in a web environment."
+}
